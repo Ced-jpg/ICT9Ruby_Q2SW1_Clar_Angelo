@@ -1,0 +1,9 @@
+div {
+	text-align: center;
+	border: dotted;
+	width: 99.5%;
+	border-radius: 40px;
+	color: whitesmoke;
+	background: limegreen;
+	font-family: serif;
+}
